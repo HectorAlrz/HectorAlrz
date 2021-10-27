@@ -36,6 +36,8 @@ const Hector = {
 };
 ```
  <br>
+  
+  <div align="center">
   <table>
   <tr>
     <th>Frontend</th>
@@ -61,18 +63,12 @@ const Hector = {
       <img align="center" alt="NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
       <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
       <img align="center" alt="ExpressJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
-      <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center" alt="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-      <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
-      <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-      <img align="center" alt="JQUERY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg">
-      <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
     </div>
     </td>
   </tr>
   </table>
-  
+  </div>
+    
   ----
   <br>
   
@@ -100,8 +96,16 @@ Developing a web application in collaboration with Kodemia team for the Kodeawar
 
   ***
   <br>
- 
+<div align="center">
+  <img src="https://media3.giphy.com/media/GuEyvLPXMLhT2/giphy.gif?cid=ecf05e47759fb9utlj0vg10drwmexvy1pgwdu07xmufgprf8&rid=giphy.gif&ct=g"/>
+
 <p align="center"> 
-  Thanks for comming around!! see you next time!<br>
+  Thanks for comming around!! see you next time!
+  <br>
+  
+  Visit counter
+  <br>
+  
   <img src="https://profile-counter.glitch.me/hectoralrz/count.svg" />
 </p>
+  </div>
