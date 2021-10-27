@@ -1,5 +1,6 @@
-# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  Hello there! / Building in process...
-### I'm Hector and i'm beggining my journey in web development as a fullstack developer Jr in stack MERN,
+<img height="120" alt="avatar" width="100%" src="https://d1a370nemizbjq.cloudfront.net/52e0a245-219c-4e33-8b2b-b5a6361afbb3.glb" />
+# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  Hello there! 
+### I'm Hector from Mexico and i'm beggining my journey in web development as a fullstack developer Jr in stack MERN, i really enjoy coding while i'm learning and developing my skills
 <br>
 
 > “A gem cannot be polished without friction, nor a man perfected without trials.” Seneca
@@ -14,11 +15,32 @@
 </div>
 <br>
   
-# Stack
+#  <img src="http://90s90s90s.com/post/118891337369" width="50">  Stack
   These are some of the computing skills i have been learning since i joined to the bootcamp, and others that i learned by curiosity.
-  <table align="center"><tr align="center"><td valign="top" >
-    import Frontend from '/Brain/coding/frontend'
-    <div align="center">
+  ```javascript
+const Hector = {
+    technologies: {
+        frontEnd: {
+            js: ["HTML", "CSS", "SASS", "Bootstrap", "Tailwind", "React", "Next.js", "Formik", "Yup", "JQuery"]
+        },
+        backEnd: {
+            js: ["Node", "Express", "Mongoose"],
+        },
+        devOps: ["AWS", "IBM"],
+        databases: ["MongoDb"],
+        misc: ["Bcrypt", "Sendgrid", "Puppeeter", "Selenium", "Rest APIs", "JWT", "Figma"]
+    },
+};
+```
+ <br>
+  <table>
+  <tr>
+    <th>Frontend</th>
+    <th>Backend</th>
+  </tr>
+  <tr>
+    <td>
+      <div align="center">
       <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
       <img align="center" alt="NextJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg">
@@ -30,9 +52,9 @@
       <img align="center" alt="JQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg">
       <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
     </div>
-  </td><td valing="top">
-    const Backend = require('/Brain/coding/backend')
-    <div align="center">
+    </td>
+    <td>
+      <div align="center">
       <img align="center" alt="NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
       <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
       <img align="center" alt="ExpressJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
@@ -44,14 +66,15 @@
       <img align="center" alt="JQUERY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg">
       <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
     </div>
-   </td></tr></table>
+    </td>
+  </tr>
+  </table>
   
   ----
   <br>
   
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+# 🌱 I’m currently...
+Learning and studying my computing skills and preparing some future projects to add them in my GitHub. 
   
 # 🌴 Projects
 
@@ -61,8 +84,21 @@ Developing a web application in collaboration with Kodemia team for the Kodeawar
 - Frontend: [Plover-Client](https://github.com/karenascencio/plover-client)
 - Backend: [Plover-API](https://github.com/FreddyCastuera/plover-api)
 
+## Coming soon...
+  
 # 📫 How to reach me:
+  
 - Email: healcaraz@gmail.com
 - LinkedIn: [@HectorHA](https://www.linkedin.com/in/h%C3%A9ctor-hern%C3%A1ndez-alcaraz-517996109/)
-- ⚡ Fun fact: ...
-  <img alt="LinkedIn" height="30" width="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+
+  
+- ⚡ Fun fact:
+  
+
+  ***
+  <br>
+ 
+<p align="center"> 
+  Thanks for comming around!! see you next time!<br>
+  <img src="https://profile-counter.glitch.me/hectoralrz/count.svg" />
+</p>
