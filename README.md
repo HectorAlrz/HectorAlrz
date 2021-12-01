@@ -3,7 +3,7 @@
 </div>
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  Hello there! 
-### I'm Hector from Mexico and i'm beggining my journey in web development as a fullstack developer Jr in stack MERN, i really enjoy coding while i'm learning and developing my skills
+### I'm Hector from Mexico and i'm beggining my journey in web development as a fullstack developer Jr in stack MERN, i really enjoy coding while i'm learning and improving my skills
 <br>
 
 > “A gem cannot be polished without friction, nor a man perfected without trials.” Seneca
