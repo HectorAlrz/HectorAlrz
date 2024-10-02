@@ -3,7 +3,7 @@
 </div>
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  Hello there! 
-### I'm Hector from Mexico and i'm beggining my journey in web development as a fullstack developer Jr in stack MERN, i really enjoy coding while i'm learning and improving my skills
+### I'm Hector from Mexico, I'm a fullstack developer Jr in stack MERN, i really enjoy coding while i'm learning and improving my skills
 <br>
 
 > “A gem cannot be polished without friction, nor a man perfected without trials.” Seneca
@@ -24,7 +24,7 @@
 const Hector = {
     technologies: {
         frontEnd: {
-            js: ["HTML", "CSS", "SASS", "Bootstrap", "Tailwind", "React", "Next.js", "Formik", "Yup", "JQuery"]
+            js: ["HTML", "CSS", "SASS", "Bootstrap", "Tailwind", !Material UI (MUI), "React", "Next.js", "Formik", "Yup", "JQuery", "react-testing-library", "jest", "cypress", redux, "react-final-form", "mui-rff"]
         },
         backEnd: {
             js: ["Node", "Express", "Mongoose"],
@@ -73,7 +73,7 @@ const Hector = {
   <br>
   
 # 🌱 I’m currently...
-Learning and studying my computing skills and preparing some future projects to add them in my GitHub. 
+
   
 # 🌴 Projects
 
@@ -90,8 +90,6 @@ Developing a web application in collaboration with Kodemia team for the Kodeawar
 - Email: healcaraz@gmail.com
 - LinkedIn: [@HectorHA](https://www.linkedin.com/in/h%C3%A9ctor-hern%C3%A1ndez-alcaraz-517996109/)
 
-  
-- ⚡ Fun fact:
   
 
   ***
