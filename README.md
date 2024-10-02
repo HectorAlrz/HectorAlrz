@@ -24,7 +24,8 @@
 const Hector = {
     technologies: {
         frontEnd: {
-            js: ["HTML", "CSS", "SASS", "Bootstrap", "Tailwind", !Material UI (MUI), "React", "Next.js", "Formik", "Yup", "JQuery", "react-testing-library", "jest", "cypress", redux, "react-final-form", "mui-rff"]
+            js: ["HTML", "CSS", "SASS", "Bootstrap", "Tailwind", !Material UI (MUI), "React", "Next.js", "Formik",
+                  "Yup", "JQuery", "react-testing-library", "jest", "cypress", "redux", "react-final-form", "mui-rff"]
         },
         backEnd: {
             js: ["Node", "Express", "Mongoose"],
