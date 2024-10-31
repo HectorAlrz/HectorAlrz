@@ -18,11 +18,13 @@ Skilled in version control with Git and GitHub, and familiar with CI/CD processe
 >
 #
 <br>
-<div align="center">
-<a href="https://github.com/hectoralrz"><a/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hectoralrz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectoralrz&layout=compact&langs_count=7&theme=dracula" />
-</div>
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=HectorAlrz&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HectorAlrz&theme=darcula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HectorAlrz&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 <br>
   
 # Stack
