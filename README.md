@@ -3,7 +3,7 @@
 </div>
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  Hello there! 
-I'm Hector from Mexico, Frontend Developer with over 2 years of experience, specializing in modernizing and optimizing web applications. I am a proactive developer who can implement new technologies and work effectively in team environments.
+I'm Hector from Mexico, Frontend Developer with 3 years of experience, specializing in modernizing and optimizing web applications. I am a proactive developer who can implement new technologies and work effectively in team environments.
 
 Proficiency in JavaScript, TypeScript, and React for building dynamic and efficient user interfaces.
 Experience with CSS frameworks such as Bootstrap, Tailwind, and Material UI (MUI) for creating responsive and attractive designs.
